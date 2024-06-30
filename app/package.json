@@ -1,0 +1,12 @@
+{
+    "name": "node-load-balanced-app",
+    "version": "1.0.0",
+    "description": "A Node.js app to demonstrate load balancing with NGINX and Docker Compose",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
